@@ -1,0 +1,1 @@
+<template> <div class="message"> </div></template><script>export default {    name: 'Message',}</script><style scoped>.message{    width: 600px;    height: 100%;    background-color: #f5f5f5;    border-bottom-right-radius: 2px;    border-top-right-radius: 2px;}</style>
